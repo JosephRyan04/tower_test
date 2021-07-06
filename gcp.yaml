@@ -1,0 +1,8 @@
+﻿plugin: gcp_compute
+projects:
+  - trial-josephr
+regions:
+  - us-central1-a
+filters: []
+auth_kind: serviceaccount
+service_account_file: service-account.json
